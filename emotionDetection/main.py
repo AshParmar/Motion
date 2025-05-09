@@ -80,7 +80,7 @@ def detect_emotion_from_webcam():
             
         emotions = {}
         
-        for _ in range(50):  # Capture 50 frames
+        for _ in range(20):  # Capture 50 frames
             ret, frame = cap.read()
             if not ret:
                 break

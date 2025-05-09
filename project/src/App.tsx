@@ -223,7 +223,7 @@ function App() {
       <div className="hidden md:flex flex-col bg-dark-gray w-64 p-4">
         <div className="mb-8 flex items-center gap-3">
           <Headphones size={32} className="text-primary" />
-          <span className="text-xl font-bold">Emotify</span>
+          <span className="text-xl font-bold">Motion</span>
         </div>
         
         <nav className="flex-1">
